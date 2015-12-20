@@ -1,2 +1,2 @@
 # stockfighter
-solutions to stockfighter.io
+S`olutions to stockfighter.io
